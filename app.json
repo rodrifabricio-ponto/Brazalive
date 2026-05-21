@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "b9f0cf63-f7aa-44dd-9b0e-c4618f9571b3"
+      }
+    },
+    "android": {
+      "package": "com.rodrifa1234.brazalive"
+    },
+    "sdkVersion": "54.0.0"
+  }
+}
